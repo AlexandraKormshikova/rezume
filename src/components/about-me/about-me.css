@@ -1,0 +1,30 @@
+.main-info {
+    display: flex;
+}
+
+.main-info__image{
+    width: 260px;
+    height: auto;
+}
+
+.main-info__image-container{
+    margin-right: 40px;
+}
+
+.main-info__name{
+    font-weight: 600;
+    font-size: 32px;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.main-info__item{
+    margin-bottom: 12px;
+    display: block;
+}
+
+.main-info__item-link{
+    padding: 4px 0 8px;
+    display: block;
+    color: inherit;
+}
